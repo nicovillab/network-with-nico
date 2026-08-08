@@ -6,7 +6,8 @@ hi everyone! i have decided to make this little github repo after watching some 
 
 | name | description |
 |------|---------------|
-| [`roblox dev (n*)`](https://github.com/nicovillab/network-with-nico) | a small WIP roblox project that intersects my passion for graphic design/computing! |
+| [`personal fonts`](https://github.com/nicovillab/network-with-nico) | a collection of some fonts i've created using the adobe suite & claude |
+| [`tbd`](https://github.com/nicovillab/network-with-nico) | a small WIP roblox project that intersects my passion for graphic design/computing |
 
 
 ## <img src="./images/care.svg" height="24" style="vertical-align: middle;" /> &nbsp; kudos  

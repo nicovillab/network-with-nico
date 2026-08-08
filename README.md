@@ -7,6 +7,7 @@ hi everyone! i have decided to make this little github repo after watching some 
 | name | description |
 |------|---------------|
 | [`personal fonts`](https://github.com/nicovillab/personal-fonts) | a collection of some fonts i've created using the adobe suite & claude |
+| [`ae expression library`](https://github.com/nicovillab/after-effects-expression-library) | some expressions i use when editing on after effects for edits :) |
 | [`tbd`](https://github.com/nicovillab/network-with-nico) | a small WIP roblox project that intersects my passion for graphic design/computing |
 
 

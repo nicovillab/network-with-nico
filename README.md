@@ -6,7 +6,7 @@ hi everyone! i have decided to make this little github repo after watching some 
 
 | name | description |
 |------|---------------|
-| [`personal fonts`](https://github.com/nicovillab/network-with-nico) | a collection of some fonts i've created using the adobe suite & claude |
+| [`personal fonts`](https://github.com/nicovillab/personal-fonts) | a collection of some fonts i've created using the adobe suite & claude |
 | [`tbd`](https://github.com/nicovillab/network-with-nico) | a small WIP roblox project that intersects my passion for graphic design/computing |
 
 
